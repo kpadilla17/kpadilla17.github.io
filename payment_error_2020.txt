@@ -1,0 +1,16 @@
+PAYMENT ERROR
+
+Hello {firstname},
+
+We would like to inform you that your payment for order ({id_order}) was unsuccessful. We suggest placing your order once again at www.decathlon.ph.
+
+In the event of a suspected fraudulent transaction or a mistake on your order and your payment was successfully placed, kindly contact our customer happiness team at (02) 8850-3322 or email us at contact.philippines@decathlon.com.
+
+Satisfied or Satisfied!
+
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+
+COPYRIGHT © 2020 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED

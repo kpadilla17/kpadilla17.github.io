@@ -1,0 +1,20 @@
+YOUR REFUND REQUEST HAS BEEN RECEIVED
+
+Hello {firstname},
+
+This is to confirm that we have received your refund request and your order {id_order} has items to be returned to proceed with your refund. A representative from our team will contact you within the next 24 hrs to discuss the process.
+
+Important Note:
+
+For orders paid via credit card, the amount will be refunded to the credit card you used. We don't support cash refunds for credit card transactions.
+
+Thank you and have a great day!
+
+Satisfied or Satisfied!
+
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+
+COPYRIGHT © 2020 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED

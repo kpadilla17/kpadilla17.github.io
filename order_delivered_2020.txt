@@ -1,0 +1,32 @@
+
+YOUR ORDER IS BEING PROCESSED
+
+Hello {firstname},
+Thank you for shopping with us!
+
+We are very happy to inforem you that your order {id_order} has been delivered to your address. We hope that you enjoy your purchase on our website www.decathlon.ph and continue to shop with us.
+
+We would love to hear from you and your feedback means a lot in improving our products and services. We would like to ask for a few minutes to give us a feedback about your online shopping experience.
+
+WRITE US A FEEDBACK
+
+Didn't pick-up the correct size or color? No worries! We are happy to change, within 365 days! Just fill in the Returns Form with the link below to return or exchange your order.
+
+RETURN & EXCHANGE
+
+HELP?
+	ORDER DETAILS
+{products}
+REFERENCE	PRODUCT	UNIT PRICE	QUANTITY	TOTAL AMOUNT
+TOTAL PRICE	{TOTAL_PRODUCTS}
+VAT (12%)	{TOTAL_TAX_PAID}
+TOTAL AMOUNT	{TOTAL_PAID}
+
+Satisfied or Satisfied!
+
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+
+COPYRIGHT © 2020 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED

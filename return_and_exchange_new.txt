@@ -1,0 +1,18 @@
+YOUR ORDER HAS BEEN CANCELLED
+
+Hello {firstname},
+
+This is to confirm that we have received your return and exchange request and your order {id_order} has items to be returned to proceed with your exchange request. A representative from our team will contact you within the next 24 hrs to discuss the process.
+
+For further concerns, please don't hesitate to contact our customer happiness team at contact.philippines@decathlon.com or call us at 8850-3322.
+
+Thank you and have a great day!
+
+Satisfied or Satisfied!
+
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+
+COPYRIGHT © 2020 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED
