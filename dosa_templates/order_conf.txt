@@ -1,0 +1,38 @@
+{shop_name}
+
+HELLO {firstname},
+
+Thank you for shopping with us! Your order has been placed. You can find the details of your purchase below:
+
+Please find the details of your purchase below:
+
+For orders paid through Bancnet and over-the-counter, you will receive a payment confirmation email from us after the amount has been settled.
+
+For Click and Collect orders, someone from our team will contact you once your order is ready for pick up! For inquiries, please don’t hesitate to contact our Customer Happiness Team at contact.philippines@decathlon.com or call us at +632 8-424-2970.
+Order Details 
+
+
+ORDER NUMBER: {id_order}	PAYMENT METHOD:{payment}
+ORDER DATE: {date}	DELIVERY METHOD:{carrier}
+
+
+Product Details
+
+REFERENCE	PRODUCT	UNIT PRICE	QUANTITY	TOTAL AMOUNT
+{products}
+
+TOTAL PRICE	{total_products}
+VAT (12%)	{total_tax_paid}
+SHIPPING	{total_shipping}
+TOTAL AMOUNT	{total_paid}
+
+
+Billing Address	Delivery Address
+{invoice_block_html}	{delivery_block_html}
+ 
+Satisfied or Satisfied!
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+      
+COPYRIGHT © 2017 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED
