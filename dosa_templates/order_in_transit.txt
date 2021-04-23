@@ -1,0 +1,51 @@
+
+ 	
+{shop_name}
+YOUR ORDER HAS BEEN SHIPPED
+
+HELLO {firstname},
+Good news!
+
+Your order {id_order} is now on its way to your address! Please find the tracking number and estimated delivery time for your order below:
+
+TRACKING NUMBER	{tracking_number}
+ESTIMATED DELIVERY	{estimated_delivery_days}
+You can check the status of your package here:	
+TRACK
+However, due to the escalation of COVID-19, we would like to give you a friendly reminder that there may be some delays in the delivery time as our courier partners are subject to National and Local Government quarantine restrictions for community safety.
+
+REMINDERS
+Please keep your communication lines open so that our couriers can easily contact you.
+If you are not available to receive your prepaid order, kindly provide the recipient with a signed authorization letter and a copy of your valid ID.
+For Cash-on-Delivery Orders, please have your payment ready upon our courier’s arrival.
+We encourage you to keep your receipt in case you want to return, exchange, replace, or avail product warranty.
+
+Thank you for shopping with us and we hope to see you again soon!
+
+Order Details 
+
+
+ORDER NUMBER: {id_order}	PAYMENT METHOD:{payment}
+ORDER DATE: {date}	DELIVERY METHOD:{carrier}
+
+
+Product Details
+
+REFERENCE	PRODUCT	UNIT PRICE	QUANTITY	TOTAL AMOUNT
+{products}
+
+TOTAL PRICE	{total_products}
+VAT (12%)	{total_tax_paid}
+SHIPPING	{total_shipping}
+TOTAL AMOUNT	{total_paid}
+
+
+Billing Address	Delivery Address
+{invoice_block_html}	{delivery_block_html}
+ 
+Satisfied or Satisfied!
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+      
+COPYRIGHT © 2017 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED
