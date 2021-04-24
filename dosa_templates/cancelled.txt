@@ -1,10 +1,12 @@
-YOUR ORDER HAS BEEN CANCELLED FOR REORDER
+YOUR ORDER HAS BEEN CANCELLED
 
 Hello {firstname},
 
-This is to confirm that your order ({id_order}) has been cancelled for re-order. We will be sending you a new confirmation email shortly.
+This is to confirm that your order {id_order} is cancelled as per your request.
 
-If you have further concerns, don’t hesitate to contact our customer happiness team at contact.philippines@decathlon.com or call us at 8850-3322.
+If you wish to order once again, you may order at www.decathlon.ph.
+
+If you have further concerns, please don't hesitate to contact our sCustomer Happiness Team at contact.philippines@decathlon.com or call us at +632 8-424-2970..
 
 Satisfied or Satisfied!
 
