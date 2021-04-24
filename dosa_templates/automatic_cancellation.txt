@@ -1,0 +1,19 @@
+YOUR ORDER HAS BEEN CANCELLED
+
+HELLO {FIRSTNAME},
+This is to inform you that your parcel with order {id_order} was sent back to us.
+
+Our team was trying to reach you via mobile, however, after multiple attempts, we still couldn’t reach you. With this, we would like to inform you that your online order will be automatically CANCELLED .
+
+If you wish to order once again, you may order at www.decathlon.ph.
+
+We wish to see you again soon!
+
+Satisfied or Satisfied!
+
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+
+COPYRIGHT © 2020 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED
