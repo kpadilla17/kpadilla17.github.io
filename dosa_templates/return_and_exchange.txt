@@ -1,0 +1,40 @@
+
+ 	
+{shop_name}
+YOUR ORDER HAS BEEN CANCELLED
+
+HELLO {firstname},
+
+We would like to inform you that one or more item/s in your order {id_order} is/are currently unavailable. Please be informed that this may cause a delay in your delivery. We apologize for the inconvenience.
+
+In order to resolve this, someone from our Fulfillment Team will get in touch with you shortly. Thank you for keeping your lines open.
+
+For any questions, please feel free to email our Customer Happiness Team at contact.philippines@decathlon.com.
+
+Order Details 
+
+
+ORDER NUMBER: {id_order}	PAYMENT METHOD:{payment}
+ORDER DATE: {date}	DELIVERY METHOD:{carrier}
+
+
+Product Details
+
+REFERENCE	PRODUCT	UNIT PRICE	QUANTITY	TOTAL AMOUNT
+{products}
+
+TOTAL PRICE	{total_products}
+VAT (12%)	{total_tax_paid}
+SHIPPING	{total_shipping}
+TOTAL AMOUNT	{total_paid}
+
+
+Billing Address	Delivery Address
+{invoice_block_html}	{delivery_block_html}
+ 
+Satisfied or Satisfied!
+Feel free to contact our customer happiness team at anytime you need. You can review your order and download your invoice from the "Order history" section of your customer account by clicking "My account" on our shop.
+GOT SOMETHING TO SHARE?
+TAG US #DECATHLONPH
+      
+COPYRIGHT © 2017 DECATHLON PHILIPPINES - ALL RIGHTS RESERVED
