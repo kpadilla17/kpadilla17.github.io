@@ -1,12 +1,13 @@
 
  	
 {shop_name}
-RETURN AND EXCHANGE
+YOUR ORDER HAS BEEN CANCELLED
 
 HELLO {firstname},
 
-This is to confirm that we have received your return and exchange request for order {id_order}. For us to proceed with the request, we are kindly requesting for the return of the items first. Someone from our team will contact you within the next 24 hours to happily assist you in this process.
+We would like to inform you that one or more item/s in your order {id_order} is/are currently unavailable. Please be informed that this may cause a delay in your delivery. We apologize for the inconvenience.
 
+In order to resolve this, someone from our Fulfillment Team will get in touch with you shortly. Thank you for keeping your lines open.
 Order Details 
 
 
